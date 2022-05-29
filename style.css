@@ -1,0 +1,98 @@
+body {
+    background-image: url("skin.png");
+}
+
+.contenedor {
+    width: 800px;
+    height: 900px;
+    background: #E9E9E9;
+    padding:10px;
+    border: 10px solid #a7aeb4;
+    margin: 20px;
+    margin-left: auto;
+    margin-right:auto ;
+    background-image: url("skin.png");
+  
+
+  
+}
+
+h1{
+  margin-left: 200px;
+  color: beige;
+}
+
+.cuadro{
+    width: 692px;
+    height: 80px;
+    background: #E9E9E9;
+    padding:10px;
+    border: 10px solid #a7aeb4;
+    margin: 20px;
+    margin-left: auto;
+    margin-right:auto ;
+    background-image: url("fonsix.png");
+  
+
+  
+    
+    
+}
+
+.precaja {
+    width: 280px;
+    height: 230px;
+    background: #e3e0e0;
+    padding:10px;
+    border: 10px solid #a7aeb4;
+    margin: 20px;
+    margin-left: 35px;
+    background-image: url("skuns.png");
+  
+
+}
+
+.precajados {
+    width: 280px;
+    height: 230px;
+    background: #e3dddd;
+    padding:10px;
+    border: 10px solid #a7aeb4;
+    margin: 20px;
+    margin-top:-289px;
+    margin-left: auto;
+    margin-right: 29px;
+    background-image: url("skuns.png");
+    
+
+   
+  
+
+}
+.guerra {
+    width: 280px;
+    height: 290px;
+    background: #e3dddd;
+    padding:10px;
+    border: 10px solid #a7aeb4;
+    margin: 20px;
+    background-image: url("temporada.png");
+    margin-left: auto;
+    margin-right: 29px;
+}
+
+
+.infinito {
+    width: 280px;
+    height: 290px;
+    background: #e3dddd;
+    padding:10px;
+    border: 10px solid #a7aeb4;
+    margin: 20px;
+    margin-top: -343px;
+    margin-left: 35px;
+    background-image: url(kin.png);
+    
+   
+
+}
